@@ -1,12 +1,12 @@
 {
     "name": "Renamer Bot",
     "description": "Telegram File Renamer Bot ",
-    "logo": "https://telegra.ph/file/1c7f268a8ac9fe2667b61.jpg",
+    "logo": "https://telegra.ph/file/4132f05d62d4e1b85dc26.jpg",
     "keywords": [
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT",
+    "repository": "https://github.com/Ksvignesh2001/PYRO-RENAME-BOT",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
@@ -34,12 +34,12 @@
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "pyro-botz",
+            "value": "Team_MVZ",
             "required": false
         },
         "START_PIC": {
             "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
-            "value": "https://telegra.ph/file/04d08445dce68c9a57b25.jpg"
+            "value": "https://telegra.ph/file/4132f05d62d4e1b85dc26.jpg"
         }
     },
     "stack": "heroku-22",
